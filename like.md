@@ -1,1 +1,2 @@
 function like
+function unfavorite
